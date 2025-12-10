@@ -46,7 +46,7 @@ responses = {
     ]
 }
 
-def process_text(input_text):
+def process_text(input_text) :
     for pattern in responses:
         matches = re.match(pattern,input_text,re.IGNORECASE);
         # if Matches are found i want to print the a random corresponsing response;
