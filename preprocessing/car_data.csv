@@ -1,0 +1,11 @@
+Brand,Mileage,Price,Buy
+Toyota,50000,15000,Yes
+Honda,30000,18000,No
+BMW,10000,40000,Yes
+Toyota,60000,12000,No
+Honda,,20000,Yes
+Toyota,45000,16000,Yes
+BMW,5000,,No
+Honda,35000,19000,No
+Toyota,70000,10000,Yes
+BMW,,42000,Yes
